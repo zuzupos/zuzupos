@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @zuzupos
+- 📊 I'm a beginner Data Analyst
+- 🧑‍🔬 I have background in science
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: she/her
+- 🧩 I love solving puzzles
+- 🏎️ I enjoy watching Formula 1 races
+- 🏠 Based in Manchester, UK
 
 
 <!---
